@@ -204,7 +204,7 @@ SciMLBase = "2.19.1 - 2"
 SciMLNLSolve = "0.1.4 - 0.1"
 Sundials = "4.20.1 - 4"
 VT100 = "0.3.4 - 0.3"
-VerilogAParser = "0.2.1 - 0.2"
+VerilogAParser = "0.2.1 - 0.3"
 
 ["0.8.4 - 0.9"]
 Diffractor = "0.2.3 - 0.2"
