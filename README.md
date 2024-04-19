@@ -6,6 +6,15 @@ Add this registry to your local Julia install with:
 pkg> registry add git@github.com:CedarEDA/PublicRegistry
 ```
 
+Note that if this is the first time you're performing a package operation, you may also
+have to manually add the general registry (it is added automatically if no registry
+is installed, but if you add the Cedar registry before performing any other package
+operation, you may not get the auto-install):
+
+```
+pkg> registry add General
+```
+
 ## Registering a package
 
 This requires `LocalRegistry` to be installed.
