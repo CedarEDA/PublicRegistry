@@ -1,0 +1,4 @@
+name = "SpectreNetlistParser"
+uuid = "72c5b8b4-6eac-4a9c-9647-0f5a982ce801"
+repo = "git@github.com:CedarEDA/CedarSim.jl"
+subdir = "SpectreNetlistParser.jl"

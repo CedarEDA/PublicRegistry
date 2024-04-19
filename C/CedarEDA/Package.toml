@@ -1,0 +1,3 @@
+name = "CedarEDA"
+uuid = "097a23ca-5f42-4755-97f7-1452623ac32d"
+repo = "git@github.com:CedarEDA/CedarEDA.jl.git"

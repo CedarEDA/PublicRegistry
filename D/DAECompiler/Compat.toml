@@ -1,0 +1,239 @@
+[0]
+ModelingToolkit = "8.57.0-8"
+julia = "1.10.0-1"
+
+["0 - 1"]
+PrecompileTools = "1"
+
+["0 - 1.1"]
+Cthulhu = "2.9.1-2"
+
+["0 - 1.5"]
+CassetteOverlay = "0.1.3-0.1"
+ChainRules = "1.50.0-1"
+Preferences = "1.4.0-1"
+Sundials = "4.19.0-4"
+
+["1.0"]
+julia = "1.10.0-1"
+
+["1.1 - 1.5"]
+julia = "1.11.0-1"
+
+["1.1 - 1.9"]
+Polynomials = "3"
+
+["1.1.0"]
+ModelingToolkit = "8.69.1-8"
+
+["1.1.1 - 1.5"]
+ModelingToolkit = "8.72.0-8"
+
+["1.10 - 1"]
+SymbolicIndexingInterface = "0.3"
+
+["1.10 - 1.10.2"]
+ChainRulesCore = "1.18.0-1"
+ForwardDiff = "0.10.36-0.10"
+LinearSolve = "2.22.1-2"
+LoopVectorization = "0.12.166-0.12"
+NonlinearSolve = "3.5.0-3"
+SciMLBase = "2.17.1-2"
+
+["1.10.3"]
+CassetteOverlay = "0.1.3 - 0.1"
+ChainRules = "1.50.0 - 1"
+ChainRulesCore = "1.18.0 - 1"
+Cthulhu = "2.9.5 - 2"
+FastBroadcast = "0.2.8 - 0.2"
+ForwardDiff = "0.10.36 - 0.10"
+LinearSolve = "2.22.1 - 2"
+LoopVectorization = "0.12.166 - 0.12"
+ModelingToolkit = "8.72.0 - 8"
+NonlinearSolve = "3.5.0 - 3"
+Preferences = "1.4.0 - 1"
+SciMLBase = "2.17.1 - 2"
+SciMLSensitivity = "7.47.0 - 7"
+Sundials = "4.19.0 - 4"
+julia = "1.11.0 - 1"
+
+["1.10.4"]
+CassetteOverlay = "0.1.3-0.1"
+ChainRules = "1.50.0-1"
+ChainRulesCore = "1.18.0-1"
+Cthulhu = "2.10.1-2"
+FastBroadcast = "0.2.8-0.2"
+ForwardDiff = "0.10.36-0.10"
+LinearSolve = "2.22.1-2"
+LoopVectorization = "0.12.166-0.12"
+ModelingToolkit = "8.72.0-8"
+NonlinearSolve = "3.5.0-3"
+Preferences = "1.4.0-1"
+SciMLBase = "2.17.1-2"
+SciMLSensitivity = "7.47.0-7"
+Sundials = "4.19.0-4"
+julia = "1.11.0-1"
+
+["1.10.5"]
+CassetteOverlay = "0.1.3 - 0.1"
+ChainRules = "1.50.0 - 1"
+ChainRulesCore = "1.18.0 - 1"
+Cthulhu = "2.10.1 - 2"
+Enzyme = "0.11.15 - 0.11"
+FastBroadcast = "0.2.8 - 0.2"
+ForwardDiff = "0.10.36 - 0.10"
+LinearSolve = "2.23.0 - 2"
+LoopVectorization = "0.12.166 - 0.12"
+ModelingToolkit = "8.72.0 - 8"
+NonlinearSolve = "3.5.0 - 3"
+Preferences = "1.4.0 - 1"
+SciMLBase = "2.24.0 - 2"
+SciMLSensitivity = "7.47.0 - 7"
+StochasticDiffEq = "6.65.0 - 6"
+Sundials = "4.19.0 - 4"
+julia = "1.11.0 - 1"
+
+["1.10.6"]
+CassetteOverlay = "0.1.3-0.1"
+ChainRules = "1.50.0-1"
+ChainRulesCore = "1.20.0-1"
+Cthulhu = "2.10.1-2"
+Enzyme = "0.11.15-0.11"
+FastBroadcast = "0.2.8-0.2"
+ForwardDiff = "0.10.36-0.10"
+LinearSolve = "2.23.0-2"
+LoopVectorization = "0.12.166-0.12"
+MacroTools = "0.5.13-0.5"
+ModelingToolkit = "8.72.0-8"
+NonlinearSolve = "3.5.0-3"
+Preferences = "1.4.0-1"
+SciMLBase = "2.24.0-2"
+SciMLSensitivity = "7.47.0-7"
+Sundials = "4.19.0-4"
+julia = "1.11.0-1"
+
+["1.10.7 - 1.10"]
+MacroTools = "0.5.13 - 0.5"
+
+["1.10.7 - 1.13"]
+Enzyme = "0.11.15 - 0.11"
+ModelingToolkit = "8.72.0 - 8"
+
+["1.10.7 - 1.15"]
+CSTParser = "3.4.1 - 3"
+ChainRules = "1.50.0 - 1"
+ChainRulesCore = "1.20.0 - 1"
+Cthulhu = "2.10.1 - 2"
+FastBroadcast = "0.2.8 - 0.2"
+ForwardDiff = "0.10.36 - 0.10"
+LinearSolve = "2.23.0 - 2"
+LoopVectorization = "0.12.166 - 0.12"
+NonlinearSolve = "3.5.0 - 3"
+Preferences = "1.4.0 - 1"
+SciMLBase = "2.24.0 - 2"
+SciMLSensitivity = "7.47.0 - 7"
+Sundials = "4.19.0 - 4"
+julia = "1.11.0 - 1"
+
+["1.13 - 1.15"]
+CentralizedCaches = "1.1.0 - 1"
+
+["1.14 - 1"]
+ModelingToolkit = "9"
+
+["1.14 - 1.15"]
+ModelingToolkitStandardLibrary = "2.6.0 - 2"
+StaticArraysCore = "1.4.2 - 1"
+
+["1.16"]
+CSTParser = "3.4.1-3"
+CentralizedCaches = "1.1.0-1"
+ChainRules = "1.50.0-1"
+ChainRulesCore = "1.20.0-1"
+Cthulhu = "2.10.1-2"
+Diffractor = "0.2.7-0.2"
+FastBroadcast = "0.2.8-0.2"
+ForwardDiff = "0.10.36-0.10"
+LinearSolve = "2.23.0-2"
+LoopVectorization = "0.12.166-0.12"
+ModelingToolkitStandardLibrary = "2.6.0-2"
+NonlinearSolve = "3.5.0-3"
+Preferences = "1.4.0-1"
+SciMLBase = "2.24.0-2"
+SciMLSensitivity = "7.47.0-7"
+StaticArraysCore = "1.4.2-1"
+Sundials = "4.19.0-4"
+julia = "1.11.0-1"
+
+["1.17 - 1"]
+CSTParser = "3.4.1 - 3"
+CentralizedCaches = "1.1.0 - 1"
+ChainRules = "1.50.0 - 1"
+ChainRulesCore = "1.20.0 - 1"
+Cthulhu = "2.10.1 - 2"
+Diffractor = "0.2.7 - 0.2"
+FastBroadcast = "0.2.8 - 0.2"
+ForwardDiff = "0.10.36 - 0.10"
+LinearSolve = "2.23.0 - 2"
+LoopVectorization = "0.12.166 - 0.12"
+ModelingToolkitStandardLibrary = "2.6.0 - 2"
+NonlinearSolve = "3.5.0 - 3"
+Preferences = "1.4.0 - 1"
+SciMLBase = "2.24.0 - 2"
+SciMLSensitivity = "7.47.0 - 7"
+StaticArraysCore = "1.4.2 - 1"
+Sundials = "4.19.0 - 4"
+julia = "1.11.0 - 1"
+
+["1.2 - 1.5"]
+Cthulhu = "2.9.5-2"
+
+["1.3 - 1.5"]
+FastBroadcast = "0.2.8-0.2"
+
+["1.3.1 - 1.5"]
+SciMLSensitivity = "7.47.0-7"
+
+["1.6"]
+CassetteOverlay = "0.1.3 - 0.1"
+ChainRules = "1.50.0 - 1"
+Cthulhu = "2.9.5 - 2"
+FastBroadcast = "0.2.8 - 0.2"
+ModelingToolkit = "8.72.0 - 8"
+Preferences = "1.4.0 - 1"
+SciMLSensitivity = "7.47.0 - 7"
+Sundials = "4.19.0 - 4"
+julia = "1.11.0 - 1"
+
+["1.7.0"]
+CassetteOverlay = "0.1.3-0.1"
+ChainRules = "1.50.0-1"
+Cthulhu = "2.9.5-2"
+FastBroadcast = "0.2.8-0.2"
+ModelingToolkit = "8.72.0-8"
+Preferences = "1.4.0-1"
+SciMLSensitivity = "7.47.0-7"
+Sundials = "4.19.0-4"
+julia = "1.11.0-1"
+
+["1.7.1 - 1.7"]
+CassetteOverlay = "0.1.3 - 0.1"
+ChainRules = "1.50.0 - 1"
+Cthulhu = "2.9.5 - 2"
+FastBroadcast = "0.2.8 - 0.2"
+ModelingToolkit = "8.72.0 - 8"
+Preferences = "1.4.0 - 1"
+SciMLSensitivity = "7.47.0 - 7"
+Sundials = "4.19.0 - 4"
+julia = "1.11.0 - 1"
+
+["1.8 - 1.10.2"]
+CassetteOverlay = "0.1.3-0.1"
+ChainRules = "1.50.0-1"
+Cthulhu = "2.9.5-2"
+FastBroadcast = "0.2.8-0.2"
+ModelingToolkit = "8.72.0-8"
+Preferences = "1.4.0-1"
+SciMLSensitivity = "7.47.0-7"
+Sundials = "4.19.0-4"
+julia = "1.11.0-1"

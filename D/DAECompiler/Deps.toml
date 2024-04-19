@@ -1,0 +1,77 @@
+["0 - 1"]
+ChainRules = "082447d4-558c-5d27-93f4-14fc19e9eca2"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+Cthulhu = "f68482b8-f384-11e8-15f7-abe071a5a75f"
+Diffractor = "9f5e2b26-1114-432f-b630-d3fe2085c51c"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+ExprTools = "e2ba6199-217a-4e67-a87a-7c52f15ade04"
+FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
+ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
+ModelingToolkitStandardLibrary = "16a59e39-deab-5bd0-87e4-056b12336739"
+NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+Preferences = "21216c6a-2e73-6563-6e65-726566657250"
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Sundials = "c3572dad-4567-51f8-b174-8c6c989267f4"
+TestEnv = "1e6cf692-eddd-4d53-88a5-2d735e33781b"
+TimerOutputs = "a759f4b9-e2f1-59dc-863e-4aeb61b1ea8f"
+Tracy = "e689c965-62c8-4b79-b2c5-8359227902fd"
+
+["0 - 1.10.4"]
+DoubleFloats = "497a8b3b-efae-58df-a0af-a86822472b78"
+
+["0 - 1.10.6"]
+CassetteOverlay = "d78b62d4-37fa-4a6f-acd8-2f19986eb9ee"
+DiffEqBase = "2b5f629d-d688-5b77-993f-72d75c75574e"
+NaNMath = "77ba4419-2d1f-58cd-9bb1-8ffee604a2e3"
+
+["0 - 1.9"]
+SciMLNLSolve = "e9a6253c-8580-4d32-9898-8661bb511710"
+
+["0.2.1 - 1"]
+SciMLSensitivity = "1ed8b502-d754-442c-8d5d-10ac956f44a1"
+
+["1.1 - 1"]
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
+["1.1 - 1.10.6"]
+RecursiveArrayTools = "731186ca-8d62-57ce-b412-fbd966d074cd"
+
+["1.1 - 1.9"]
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+
+["1.10 - 1"]
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+SymbolicIndexingInterface = "2efcf032-c050-4f8e-a9bb-153293bab1f5"
+
+["1.10.5"]
+StochasticDiffEq = "789caeaf-c7a9-5a7d-9973-96adeb23e2a0"
+
+["1.10.5 - 1.13"]
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
+
+["1.10.6 - 1.10"]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+
+["1.10.7 - 1"]
+CSTParser = "00ebfdb7-1f24-5e51-bd34-a7502290713f"
+
+["1.13 - 1"]
+CentralizedCaches = "d1073d05-2d26-4019-b855-dfa0385fef5e"
+
+["1.14 - 1"]
+StaticArraysCore = "1e83bf80-4336-4d27-bf5d-d5a4f845583c"
+
+["1.3 - 1"]
+FastBroadcast = "7034ab61-46d4-4ed7-9d0f-46aef9175898"
+
+["1.4 - 1"]
+DiffEqCallbacks = "459566f4-90b8-5000-8ac3-15dfb0a30def"

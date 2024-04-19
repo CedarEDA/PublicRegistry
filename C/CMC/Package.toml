@@ -1,0 +1,3 @@
+name = "CMC"
+uuid = "db13d295-e716-48aa-bdca-f6cce3d4ecc6"
+repo = "git@github.com:CedarEDA/CMC.jl.git"
