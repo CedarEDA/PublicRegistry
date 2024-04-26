@@ -1,4 +1,4 @@
 name = "Lexers"
 uuid = "8fc43420-9e17-4e89-a998-f4e9593a1dfc"
-repo = "git@github.com:CedarEDA/CedarSim.jl"
+repo = "https://github.com/CedarEDA/CedarSim.jl.git"
 subdir = "Lexers.jl"

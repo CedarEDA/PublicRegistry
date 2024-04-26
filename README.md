@@ -3,7 +3,7 @@
 Add this registry to your local Julia install with:
 
 ```
-pkg> registry add git@github.com:CedarEDA/PublicRegistry
+pkg> registry add https://github.com/CedarEDA/PublicRegistry
 ```
 
 Note that if this is the first time you're performing a package operation, you may also

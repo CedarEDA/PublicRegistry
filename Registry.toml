@@ -1,6 +1,6 @@
 name = "CedarPublic"
 uuid = "d5383f58-d01c-4af7-9150-c3deb6df5400"
-repo = "git@github.com:CedarEDA/PublicRegistry"
+repo = "https://github.com/CedarEDA/PublicRegistry.git"
 description = "CedarEDA public package registry"
 
 [packages]
