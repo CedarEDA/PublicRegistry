@@ -1,4 +1,4 @@
 name = "VerilogAParser"
 uuid = "b333aca1-b97d-47c9-9908-8e5a8c115e58"
-repo = "https://github.com/JuliaComputing/CedarSim.jl.git"
+repo = "https://github.com/CedarEDA/CedarSim.jl.git"
 subdir = "VerilogAParser.jl"
