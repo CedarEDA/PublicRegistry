@@ -10,6 +10,7 @@ description = "CedarEDA public package registry"
 3a9dc963-4db1-4336-a55a-41e26ba2a676 = { name = "Sky130PDK", path = "S/Sky130PDK" }
 4c528db8-839e-4d0b-8de9-a61e03c09612 = { name = "GF180MCUPDK", path = "G/GF180MCUPDK" }
 5f726cbb-fb92-4cd0-9fae-dbb64c46e42b = { name = "ASAP7PDK", path = "A/ASAP7PDK" }
+64909d44-ed92-46a8-bbd9-f047dfbdc84b = { name = "StateSelection", path = "S/StateSelection" }
 68451d9d-dee8-4953-9213-4e693cae3dc0 = { name = "asap7", path = "A/asap7" }
 72c5b8b4-6eac-4a9c-9647-0f5a982ce801 = { name = "SpectreNetlistParser", path = "S/SpectreNetlistParser" }
 8fc43420-9e17-4e89-a998-f4e9593a1dfc = { name = "Lexers", path = "L/Lexers" }
